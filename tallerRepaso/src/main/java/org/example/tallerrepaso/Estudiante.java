@@ -2,6 +2,7 @@ package org.example.tallerrepaso;
 
 public class Estudiante extends Persona {
     private String edad;
+    //gtgjgtg
 
     public Estudiante(int edad, String identificacion, String nombre, String apellidos) {
         super(identificacion, nombre, apellidos);

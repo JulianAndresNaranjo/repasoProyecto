@@ -1,4 +1,4 @@
-package com.example.repaso;
+papackage org.example.tallerrepaso;
 
 public class AdminController
 {

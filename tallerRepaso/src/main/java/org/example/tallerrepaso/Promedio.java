@@ -1,4 +1,4 @@
-package logica;
+package org.example.tallerrepaso;
 
 public class Promedio {
 

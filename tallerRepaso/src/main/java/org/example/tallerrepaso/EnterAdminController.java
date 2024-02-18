@@ -1,4 +1,4 @@
-package com.example.repaso;
+package org.example.tallerrepaso;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
